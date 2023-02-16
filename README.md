@@ -30,7 +30,7 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps. 
+> In this project, you will set up a "Hello Microverse" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps. 
 
 **Hello-Microverse** is a the first project built by the developer who is in the early stages of learning how to code. It desmostrate how to master all of the tools and best practices and how to code remotely to your github repository.
 
