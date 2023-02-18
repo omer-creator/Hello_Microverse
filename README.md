@@ -47,6 +47,13 @@ Furthermore, you will learn how to use linters to fix errors in your code and ma
   <ul>
     <li><a href="github.com">Git Hub</a></li>
   </ul>
+    <summary>Languages</summary>
+  <ul>
+    <li><a href="html.com">HTML</a></li>
+  </ul>
+  <ul>
+    <li><a href="css.com">CSS</a></li>
+  </ul>
 </details
 
 
