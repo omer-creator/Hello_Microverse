@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="smalllogo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>README</b></h3>
@@ -21,7 +21,7 @@
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
--- [🙏 Acknowledgements](#acknowledgements)
+- [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
@@ -29,8 +29,6 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
-
-> In this project, you will set up a "Hello Microverse" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps. 
 
 **Hello-Microverse** is a the first project built by the developer who is in the early stages of learning how to code. It desmostrate how to master all of the tools and best practices and how to code remotely to your github repository.
 
